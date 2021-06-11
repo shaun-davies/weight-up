@@ -14,3 +14,28 @@
     font-family: "Roboto", sans-serif;
     margin-right: 10px; 
 }    
+
+/*------------------------------------------- Footer */
+
+#footer {
+    text-align: center;
+    background-color: #757575;
+    color: #fff;
+    font-size: 12px;
+    
+}
+
+.social-media {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.social-media li a i {
+    color:#fff;
+    width: 40px;
+    font-size: 25px;
+}
+
+.copyright-text {
+    margin-bottom: 10px;
+}
