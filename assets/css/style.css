@@ -51,8 +51,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    border-style: solid;
-    border-color: #fff;
 }
 
 #hero-outer {
@@ -165,4 +163,31 @@ li a:hover
 #equipment h3 {
     font-family: "Open Sans", sans-serif;
     color: #9a0007;
+}
+
+/*------------------------------------------- About */
+
+#map {
+    height: 300px;
+    width: 100%;
+}
+
+.about-details {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 10px;
+} 
+
+#about-outer {
+    overflow: hidden;
+    position: relative;
+}
+
+#about-image {
+    height: 400px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
