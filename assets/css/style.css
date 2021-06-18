@@ -128,12 +128,11 @@ li a:hover
     border-color: #fff;
 }
 
-#gallery h3 {
+#gallery h2 {
     text-align: center;
-    text-transform: uppercase;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #fff;
-    font-weight: 500;
+    font-weight: 600;
     margin-top: 10px;
 }
 
@@ -145,4 +144,25 @@ li a:hover
     border-style: solid;
     border-color: #fff;
     border-width: 5px;
+}
+
+/*------------------------------------------- Equipment */
+
+#equipment {
+    background-color: #fff;
+    border-style: solid;
+    border-color: #fff;
+}
+
+#equipment h2 {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#equipment h3 {
+    font-family: "Open Sans", sans-serif;
+    color: #9a0007;
 }
