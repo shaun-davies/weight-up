@@ -119,3 +119,30 @@ li a:hover
     margin-top: 55px;
     margin-right: 10px;
 }
+
+/*------------------------------------------- Gallery */
+
+#gallery {
+    background-color: #8e8e8e;
+    border-style: solid;
+    border-color: #fff;
+}
+
+#gallery h3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.gallery-col img {
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 5px;
+}
