@@ -176,7 +176,6 @@ li a:hover
 
 .about-us h2 {
     font-size: 40px;
-    font-weight: 600;
 }
 
 .about-details {
@@ -221,17 +220,24 @@ li a:hover
 
 .instructor-section {
     text-align: center;
+    background-color: #e0e0e0;
 }
 
 .instructor-image {
     width: 250px;
     height: 250px;
     border-radius: 50%;
-    border: 3px solid #757575;
+    border: 4px solid #373737;
     position: relative;
 }
 
-.timetable {
-    max-width: 700px;
-    text-align: center;
+.instructor-section h2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+    
+.instructor-text {
+    margin-top: 15px;
 }
