@@ -15,7 +15,6 @@
     font-size: 22px;
 }    
 
-
 /*------------------------------------------- Footer */
 
 #footer {
@@ -221,6 +220,7 @@ li a:hover
 .instructor-section {
     text-align: center;
     background-color: #e0e0e0;
+    border: 3px solid #373737;
 }
 
 .instructor-image {
@@ -240,4 +240,27 @@ li a:hover
     
 .instructor-text {
     margin-top: 15px;
+}
+
+.table-section {
+    text-align: center;
+}
+
+.table {
+    height: 400px;
+    max-width: 800px;
+    margin: auto auto 30px auto;
+    border: 2px solid #616161;
+}
+
+.table-section h2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+
+.table th {
+    background-color: #9a0007;
+    color: #fff;
 }
