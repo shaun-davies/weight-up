@@ -183,7 +183,7 @@ li a:hover
     text-align: center;
     font-family: "Open Sans", sans-serif;
     color: #fff;
-    background-color: #9a0007;
+    background-color: #c62828;
     border: solid #fff;
     border-top: 0;
     padding-top: 10px;
@@ -195,7 +195,7 @@ li a:hover
     border: 2px solid #fff;
 }
 
-/*------------------------------------------- About */
+/*------------------------------------------- Contact */
 
 .form-section {
     background-image: url(../images/contact.jpg);
@@ -215,4 +215,23 @@ li a:hover
     text-align: center;
     font-size: 40px;
     font-weight: 600;
+}
+
+/*------------------------------------------- Classes */
+
+.instructor-section {
+    text-align: center;
+}
+
+.instructor-image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px solid #757575;
+    position: relative;
+}
+
+.timetable {
+    max-width: 700px;
+    text-align: center;
 }
