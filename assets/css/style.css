@@ -242,25 +242,33 @@ li a:hover
     margin-top: 15px;
 }
 
-.table-section {
-    text-align: center;
-}
-
-.table {
-    height: 400px;
+.time-table {
+    height: auto;
     max-width: 800px;
-    margin: auto auto 30px auto;
+    margin: 20px auto 20px auto;
     border: 2px solid #616161;
 }
 
 .table-section h2 {
+    text-align: center;
     font-family: "Roboto", sans-serif;
     font-size: 40px;
     margin-bottom: 20px;
     padding-top: 10px;
 }
 
+.table {
+    text-align: center;
+    font-size: 15px;
+    table-layout: fixed;
+    width: 100%;
+}
+
 .table th {
     background-color: #9a0007;
     color: #fff;
+}
+
+.days {
+    font-weight: 500;
 }
