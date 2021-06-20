@@ -6,7 +6,7 @@
 
 - [W3C CSS validation](https://jigsaw.w3.org/css-validator/)
 - [W3C Markup Validation](https://validator.w3.org/)
--- The developer used W3C CSS Validation Service and W3C Markup Validation Service to check the validity of the website code.
+The developer used W3C CSS Validation Service and W3C Markup Validation Service to check the validity of the website code.
 
 The HTML Validator initially found 2 errors in the code:
 
@@ -16,9 +16,9 @@ The HTML Validator initially found 2 errors in the code:
 2. *Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.*
 - This was fixed by changing the section element to a div, as it was not necessary to start a new section.
 
-##Bugs discovered
+## Bugs discovered
 
-###Solved bugs:
+### Solved bugs:
 
 1. Bootstrap Framework not working, particularly toggle button unresponsive in Navbar
 - Solved by adding Bootstrap script in Body of code.
@@ -62,3 +62,73 @@ The user can contact the gym through the contact form in Contact to ask about of
 - In the Classes page a Fitness Class timetable can be seen showing the different times that classes are offered.
 
 ## Manual (logical) testing of all elements and functionality on every page.
+
+### Home Page:
+1. Navigation bar:
+
+- Go to the "Home" page from a desktop.
+- Change the screen size from desktop to tablet to verify that the navigation bar is responsive and switches from in line menu to burger icon dropdown menu at the appropriate place.
+- When checking responsiveness of navbar, verify that there is no overflow causing size changes to menu items. 
+- Click on the logo in the navigation bar and verify that it links to the home page.
+- Click on each navigation menu item and verify that it links to the correct page.
+
+2. Hero image:
+
+- Go to Home page from a desktop.
+- Confirm image is visible and is 100% width of the screen.
+- Reduce the width of the window to confirm that the image resizes to mobile screen.
+- Reduce and expand width of window to confirm that the overlay on top of image responds correctly and does not obscure important features.
+
+2. Gallery:
+
+- Resize Home page window size and confirm that the images decrease in numbers with screen size whilst retaining their quality and not obscurring any other features.
+
+3. Equipment List:
+
+- Resize Home page window and confirm that the list of Equipments and Facilities stay fitted inside the screen size.
+
+4. Footer:
+
+- Hover over each social media icon and confirm hover movement.
+- Click on each icon to confirm it opens a separate tab for it's link.
+- Reduce and expand width of window to verify that the footer is responsive and looks good on all device widths.
+
+### About Page:
+1. Navigation bar:
+
+- Repeat verification steps done for navbar on Home page.
+- Confirm that navbar code is identical on all html pages.
+
+2. Page Content:
+
+- Confirm that this page and its sections are responsive and fits the screen when window size changes.
+
+3. Map:
+
+- Confirm that Map is visible and is functional.
+- Confirm that Map is responsive and fits the screen when window size changes.
+
+4. Footer:
+
+- Repeat verification steps done for Footer on Home page.
+- Confirm that footer code is identical on all html pages.
+
+### Classes:
+
+1. Page Content:
+
+- Confirm that this page and its sections are responsive and fits the screen when window size changes.
+
+### Contact:
+
+1. Contact form:
+
+- Try to submit the empty form and verify that an error message about the required fields appears
+- Try to submit the form with an invalid email address and verify that a relevant error message appears
+- Try to submit the form with a file uploaded, verify that file selection process works.
+- Try to submit the form with all inputs valid and verify that a success message appears.
+- Reduce and expand width of window to verify that the form display behaves and centres the way expected, and that it looks good on all device widths.
+
+## Further Testing:
+
+1. Asked fellow riends and family to look at the site on their devices and report any issues they find.
