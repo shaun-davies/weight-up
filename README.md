@@ -1,8 +1,8 @@
-[# WEIGHT UP](https://shaun-davies.github.io/weight-up/about.html)
+# [ WEIGHT UP](https://shaun-davies.github.io/weight-up/index.html)
 
 A website for a 24 hour gym based in Swansea, South Wales. The name is a play on the phrase “Wait Up” meaning to stay awake until someone arrives or to go more slowly until someone catches up. The website features a gallery, information on equipment at the gym, an about page with map showing its precise location, classes page with a table of daily classes and a meet the instructors section. The website also features a contact page for more information on membership deals.
 
-##UX
+## UX
 
  The aim of the website is to:
 
@@ -10,7 +10,7 @@ A website for a 24 hour gym based in Swansea, South Wales. The name is a play on
 2. Retain members of the gym. The website will be a point where current members can find out opening times and information on classes at the gym. 
 The website will contain media showing people enjoying and exercising at the gym, it will provide information needed to make a decision on joining the gym such as details of organised classes and their schedule and it will provide information on location, opening hours and contact details.
 
-##User stories
+## User stories
 
 1.	As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
 2.	As a new visitor to the website, I want view the gym’s gallery, and see what facilities are available.
@@ -21,16 +21,16 @@ The website will contain media showing people enjoying and exercising at the gym
 7.	As an interested observer and/or potential client, I want to follow the gym on social media, so I can keep up with its latest news and events.
 8.	As a returning client to the website, I want to know what time a particular fitness class is.
 
-##Wireframe mockups:
+## Wireframe mockups:
 
 
-##Features
+## Features
 
 Each page has a responsive navigation bar with a convenient placing of logo text at the top left, this directs to the home page when clicked. The footer is identical on each page featuring copyright information and linked icons to the gym’s social medias.
 
 All pages feature responsiveness to changing screen sizes ensuring that the website can work effectively and promote the gym to the visitor no matter what device they are using.
 
-###Home
+### Home
 
 The first notable feature of the Home page is the hero image. It provides impact and gives a great sense of what the gym looks and feels like highlighting the expansive range of equipment present but also showing a modern and clean look, evoking a positive emotional response in the user. The image expands and retracts with changing screen sizes but never looks stretched or pixelated. 
 
@@ -40,7 +40,7 @@ A gallery responsive of changing screen sizes (showing 3 images on a small scree
 
 More information is given on the expansive range of equipment and high grade facilities below the gallery in a listing form with icons to promote a positive emotional response in the user.
 
-###About
+### About
 
 The About page gives the user information on the quality of the gym, and reassures any potential nervous customers who have never been to a gym that all experiences are welcomed. 
 
@@ -48,19 +48,19 @@ A phone number is displayed which may direct the user to speak to a member of st
 
 A map is displayed on the lower half of the page which visually shows the location of the gym. It shows that it is in a developed and safe area of the city with plenty of links to transport if needed.
 
-###Classes
+### Classes
 
 The Classes page features a table showing all fitness classes available, a potential customer can be attracted to join by seeing a particular class they are interested in. Current members of the gym can easily locate the Classes page and find the time of their preferred class which is displayed in the table at the top of the page.
 
 A fun section profiling the instructors at the gym is located on the page, here a smiling and approachable image of each instructor is provided to evoke a positive emotional response in the user. Some information is provided on their expertise and qualifications, showing the professionalism of the staff at the gym.
 
-###Contact
+### Contact
 
 The Contact page features a contact form allowing the user to enter their details and a text box to write a question or message to the gym. A radio button is present to indicate whether the user is a student or not, to receive a discount on membership. 
 
 The bottom of the form contains a send button.
 
-##Existing Features 
+## Existing Features 
 
 -	Header Text Logo – Featured on every page. Easily recognisable link to the Home page.
 -	Header Navigation Bar – Featured on every page. Links to each page provides quick and easy navigation through the website.
@@ -83,7 +83,7 @@ Features to implement in future
 -	Safety page – A page detailing safety measures and any restrictions that may be in place
 -	Payment system – A feature to instantly pay for membership
 
-##Technologies Used
+## Technologies Used
 
 -	This project uses HTML and CSS programming languages.
 -	GitHub and GitPod – Used as an IDE to build the website along with VS Code.
@@ -97,26 +97,26 @@ The project uses Bootstrap5.0 to simplify the structure of the website and to al
 -	Material.io – Color tool to create palettes for UI and measure accessibility of colour combinations.
 -	Balsamiq – To create wireframes for design of the website
 
-##Testing
+## Testing
 
 Testing information can be found here in TESTING.md file
 
-##Deployment
+## Deployment
 
 This project was developed using GitPod IDE, committed to git and pushed to GitHub.
 
-##Credits
+## Credits
 
 -	All content was created by Shaun Davies
 
-##Media
+## Media
 
 -	All photos used were obtained from Pexels and Unsplash
 
-##Acknowledgments
+## Acknowledgments
 
 -	Thank you to my mentor Akshat Garg for his patience and help through my journey of creating my first project.
 
-##Disclaimer
+## Disclaimer
 
 The content of this website is for educational purposes only.
