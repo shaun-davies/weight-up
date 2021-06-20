@@ -1,4 +1,4 @@
-[#WEIGHT UP#](https://shaun-davies.github.io/weight-up/about.html)
+[# WEIGHT UP](https://shaun-davies.github.io/weight-up/about.html)
 
 A website for a 24 hour gym based in Swansea, South Wales. The name is a play on the phrase “Wait Up” meaning to stay awake until someone arrives or to go more slowly until someone catches up. The website features a gallery, information on equipment at the gym, an about page with map showing its precise location, classes page with a table of daily classes and a meet the instructors section. The website also features a contact page for more information on membership deals.
 
