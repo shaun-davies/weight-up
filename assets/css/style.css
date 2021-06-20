@@ -85,14 +85,14 @@
     padding-bottom: 4px;
 }
 
-#cover-text h3 {
+#cover-text ul {
     font-family: "Open Sans", sans-serif;
     text-transform: uppercase;
     font-size: 22px;
     font-weight: 600;
 }
 
-#cover-text h3 li {
+#cover-text ul li {
     margin-bottom: 15px;
     list-style-type: none;
 }
