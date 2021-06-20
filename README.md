@@ -118,7 +118,7 @@ This project was developed using GitPod IDE, committed to git and pushed to GitH
 
 ## Media
 
--	All photos used were obtained from Pexels and Unsplash
+-	Photos used were obtained from Ivan Samkov, Scott Webb, Andrea Piacquadio, Andrew Dick, Monstera on Pexels and Rodrigo Sarsfield, Danielle Cerullo, Milan Csizmadia, Quan Lee and Jonathan Borba on Unsplash.
 
 ## Acknowledgments
 
