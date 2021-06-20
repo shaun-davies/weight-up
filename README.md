@@ -114,7 +114,7 @@ This project was developed using GitPod IDE, committed to git and pushed to GitH
 ## Credits
 
 -	All content was created by Shaun Davies
-- [README.md] (https://github.com/AJGreaves/portrait-artist/blob/master/README.md) and [TESTING.md] (https://github.com/AJGreaves/portrait-artist/blob/master/TESTING.md) format taken from the amazing Anna Greaves. 
+- [README.md](https://github.com/AJGreaves/portrait-artist/blob/master/README.md) and [TESTING.md](https://github.com/AJGreaves/portrait-artist/blob/master/TESTING.md) format taken from the amazing Anna Greaves. 
 
 ## Media
 
