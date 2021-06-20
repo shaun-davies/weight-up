@@ -23,10 +23,12 @@ The website will contain media showing people enjoying and exercising at the gym
 
 ## Wireframe mockups:
 
--[Home](https://github.com/shaun-davies/weight-up/blob/master/wireframes/home.pdf)
--[About](https://github.com/shaun-davies/weight-up/blob/master/wireframes/about.pdf)
--[Classes](https://github.com/shaun-davies/weight-up/blob/master/wireframes/classes.pdf)
--[Contact](https://github.com/shaun-davies/weight-up/blob/master/wireframes/contact.pdf)
+- [Home](https://github.com/shaun-davies/weight-up/blob/master/wireframes/home.pdf)
+- [About](https://github.com/shaun-davies/weight-up/blob/master/wireframes/about.pdf)
+- [Classes](https://github.com/shaun-davies/weight-up/blob/master/wireframes/classes.pdf)
+- [Contact](https://github.com/shaun-davies/weight-up/blob/master/wireframes/contact.pdf)
+
+![Mockup](https://github.com/shaun-davies/weight-up/blob/master/assets/images/mockup.jpg)
 
 ## Features
 
@@ -103,7 +105,7 @@ The project uses Bootstrap5.0 to simplify the structure of the website and to al
 
 ## Testing
 
-Testing information can be found here in TESTING.md file
+Testing information can be found here in [TESTING.md file](https://github.com/shaun-davies/weight-up/blob/master/TESTING.md)
 
 ## Deployment
 
