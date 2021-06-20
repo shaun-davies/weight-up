@@ -23,6 +23,10 @@ The website will contain media showing people enjoying and exercising at the gym
 
 ## Wireframe mockups:
 
+-[Home](https://github.com/shaun-davies/weight-up/blob/master/wireframes/home.pdf)
+-[About](https://github.com/shaun-davies/weight-up/blob/master/wireframes/about.pdf)
+-[Classes](https://github.com/shaun-davies/weight-up/blob/master/wireframes/classes.pdf)
+-[Contact](https://github.com/shaun-davies/weight-up/blob/master/wireframes/contact.pdf)
 
 ## Features
 
